@@ -26,7 +26,7 @@ I am Thilak,a CS undergrad and Application Developer love to .<a><img src="https
 
 - 🧑🏻‍💻 I'm currently pursuing my final year of B.E CSE at St. Joseph's College of Engineering
 - ⚙️ I use daily:  `.py`, `.html`, `.css`, `.js`, `.java`, `.swift`
-- 🛬 Reach me: Here->[LinkedIn](https://www.linkedin.com/in/theyagarajan-t-s/)
+- 🛬 Reach me: Here->[LinkedIn](https://www.linkedin.com/in/thilak-v-a-ba178622a)
 - 🎼 I’m currently learning React, UI&UXand lil bit of Cloud Computing
 - 💌 I enjoy learning about new technologies
 
