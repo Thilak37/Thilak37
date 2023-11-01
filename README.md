@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img width=”200" height=”200" src="https://www.canva.com/design/DAFciS-pJNc/xkb0bHPjXayQIdxBC5oh2A/view?utm_content=DAFciS-pJNc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt=”mybanner”>
 </p> -->
 
-## Hey here <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+## Hey here <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="5%"></a>
 
 
 I am Thilak,a CS undergrad and Application Developer love to .<a><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
