@@ -1,6 +1,6 @@
 
 
-## Hey here <a><img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="5%"></a>
+## Hey there <a><img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="5%"></a>
 
 
 I am Thilak, a CS undergrad and Application Developer
