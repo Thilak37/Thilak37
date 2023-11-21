@@ -1,6 +1,6 @@
 
 
-## Hey here <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="5%"></a>
+## Hey here <a><img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" width="5%"></a>
 
 
 I am Thilak, a CS undergrad and Application Developer
@@ -29,12 +29,11 @@ I am Thilak, a CS undergrad and Application Developer
   <summary><b>&nbsp;&nbsp;💻Workspace Specs</b></summary>
   <p>
    <a><img src="https://img.shields.io/badge/Dell-Inspiron-green?labelColor=blue"></a>
-    <a><img src="https://badgen.net/badge/hello/world/red?icon=twitter"></a>
   </p>
   <summary><b>&nbsp;&nbsp;🎶 Sound</b></summary>
   <p>
-
     <a><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a><img src=https://img.shields.io/badge/Jiosaavn-lightgreen?style=for-the-badge&logo=jiosaavn&logoColor=black></a>
   </p>
   <summary><b>&nbsp;&nbsp;☁ Cloud</b></summary>
   <p>
@@ -46,9 +45,4 @@ I am Thilak, a CS undergrad and Application Developer
    <a><img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"></a>
 
   </p>
-
-
-
-
-
 
