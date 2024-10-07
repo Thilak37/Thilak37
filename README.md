@@ -6,10 +6,11 @@
 I am Thilak, a CS undergrad and Application Developer
 
 
-- 🧑🏻‍💻 I'm currently pursuing my final year of B.E CSE at St. Joseph's College of Engineering
+- 🧑🏻‍💻 I'm currently working as a Trainee Software Engineer in Terralogic Software Solution, Chennai
+- 🏫 I completed B.E - CSE course at St. Joseph's College of Engineering
 - ⚙️ I use daily:  `.py`, `.html`, `.css`, `.js`, `.java`
 - 🛬 Reach me: Here->[LinkedIn](https://www.linkedin.com/in/thilak-v-a-ba178622a)
-- 🎼 I’m currently learning Full Stack, Machine Learning and  Cloud Computing
+// - 🎼 I’m currently learning Full Stack, Machine Learning and  Cloud Computing
 - 💌 I enjoy learning about new technologies
 
 
